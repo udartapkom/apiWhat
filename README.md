@@ -1,17 +1,14 @@
 ### consalting-api
-Репозиторий для бэкенда консалтинговой фирмы
+Репозиторий для бэкенда тестового задания green-api
 
 ### Технологии и библиотеки
 - Node.js (Express)
-- MongoDB (mongoose)    
-API доступно по: [`https://api.ka-tandem.ru/`](https://api.ka-tandem.ru/)  
-или [`https://www.api.ka-tandem.ru`](https://www.api.ka-tandem.ru)  
+
+API доступно по: [`http://api.mypetproject.ru/`](http://api.mypetproject.ru/)  
+или [`http://www.api.mypetproject.ru`](http://www.api.mypetproject.ru)  
 
 ### Функционал
-- Авторизация,
-- Регистрация,
-- Чтение, запись, обновление материалов,
-- Отправка сообщений в Телеграм
+- Отправка и приём сообщений,
 
 #### Скрипты:  
   
